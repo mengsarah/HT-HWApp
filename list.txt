@@ -1,0 +1,71 @@
+﻿USEFUL LIST :)
+
+--- CORE FUNCTIONS --- (the cake)
+
+> reminders are accompanied by memes and gifs
+>> backup for banner notifications since they're small: get meme-like text (or text straight from a meme) (e.g. "Ain't nobody got time for dat procrastination")
+
+> cute animal pictures/gifs as rewards for finishing assignments on time (or at all, hahaha)
+
+
+--- WOULD BE NICE --- (the icing)
+
+> integrate with Google Calendar
+
+> option to have image emojis and/or text emojis alongside or instead of memes and gifs (imagine the intimidation from seeing this: ಠ_ಠ)
+
+> have a place to input favorite fandoms, people, etc. to customize which memes/gifs pop up
+
+> a "due next class" option
+>> a "due in 2 classes" option (this is probably as far as we should go with this kind of option)
+
+> option to keep phone on while app is active (maximum effect when meme/gif reminders appear)
+
+
+--- OTHER SPECIFICATIONS --- (the colors of the cake and icing)
+
+> for both iOS and Android
+
+
+--- LONG-TERM STUFF --- (the decorations)
+
+> battery optimization
+
+> web version (entirely different beast)
+>> look into React? javascript library that helps with updating a bunch of things on a webpage
+
+
+
+
+--- MISC ---
+
+> One day, I'd like to have a web version where I have the option to just type everything with a certain easy format* and then the app automatically sorts my things correctly.
+
+I didn't really realize what was bothering me about existing apps until recently. After thinking for a while, I finally realized that this is probably the reason that I can't stand online calendars and fail to stick to a lot of productivity apps: manually keeping track of my stuff by typing them in chat messages to my friend takes so much less time than trying to tap/click a bunch of buttons, select things, etc. And the best part is that my plans are easily changeable (just move or delete text), whereas with most apps today I have to still press buttons and select things in order to change them.
+
+It's sort of like how you can do stuff super quickly with the command line instead of Windows Explorer (or the Mac equivalent) once you get used to it. For those of us who can type quickly, typing may be preferable over trying to aim at buttons. (Aiming at buttons is probably way more preferable for people who can't type quickly, though)
+
+This is for the (somewhat distant) future, though.
+
+For our homework app project for HackTrack, I'm all for our current plans! (plus it would probably be much more popular than what I want haha)
+
+* I'd type something like this:
+FRIDAY
+CS problem set 6, 5pm
+CS portfolio problem, sometime
+SPAN essay
+RELB skdajhjkghs
+
+And the app would automatically put these things into a calendar or something:
+> "problem set 6" due for my CS class at 5pm
+> "portfolio problem" due for my CS class at "sometime" (would display that as a string and be unordered)
+> "essay" due for my SPAN (Spanish) class at class time (no specified time),
+> "skdajhjkghs" due for my RELB class at 11pm (no specified time, but I don't have my RELB class on Fridays)
+
+Very simple format to get used to. Ideally the user would even be able to customize the format (e.g. if they want a delimiter other than a comma, if they want line breaks at different parts, etc) and you could customize a ton of things, but I'm getting ahead of myself here... And language wouldn't even be an issue on the user's end (it would only be an issue on the developers' end for stuff like displaying the calendar itself, etc.); you could set the days of the week to any names you want (e.g. "Pizza Day" or the name of the day in another language), for example.
+
+A lot of apps make you manually specify the times for due dates or have an "all day" option. Out of all of the apps I've tried, "The HW App" is my favorite, mostly because of the ease of setting the due date: they have a "Next class" option, which automatically scrolls to the date and time of the next time you have that class. That made my life so much easier. I wish more apps had that option.
+
+(I'm completely on board with what we're going to do for this project, though! Looking forward to learning how to do everything!)
+
+- Sarah M.
