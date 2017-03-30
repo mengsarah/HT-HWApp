@@ -1,5 +1,10 @@
 ﻿USEFUL LIST :)
 
+
+--- STUFF TO DO ---
+
+> storyboard: sketch screens, physically tap and then move around screens
+
 --- CORE FUNCTIONS --- (the cake)
 
 > reminders are accompanied by memes and gifs
